@@ -9,7 +9,7 @@ The complete AdDKG integrates annotated triples from 172,283 articles, constitut
 	- To enable the verification and reproduction of the key findings in our case study, we have publicly released all annotated data, entity mappings, and SNOMED CT alignments for the 12 analyzed articles. This complete validation package is available on at [mini-AdDKG release pag](https://github.com/tingcosmos/AdDKG/releases).\
 	- For the complete AdDKG knowledge base, we provide the following two access pathways:\
 		a) Query service: Interested parties can contact the corresponding author (H. Qin) with specific questions. Our team will design and execute the corresponding SPARQL queries against the full AdDKG knowledge base and return the results.\
-		b) Collaborative access: For projects requiring broader or repeated access, researchers may contact the corresponding author (H. Qin) to establish a data-sharing agreement, which may include secure VPN connections to our institutional server.\
+		b) Collaborative access: For projects requiring broader or repeated access, researchers may contact the corresponding author (H. Qin) to establish a data-sharing agreement, which may include secure VPN connections to our institutional server.
 
 ### Knowledge Graph Construction in GraphDB
 
