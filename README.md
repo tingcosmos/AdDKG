@@ -30,8 +30,6 @@ The databases are available at [mini-AdDKG release page](https://github.com/ting
 
 **4. Accessing and Reasoning Data in GraphDB** \
 The data in GraphDB can be accessed and reasoned by SPARQL query language. Start query from the menu `SPARQL`. \
-Please find query templates in the [sparql-codes](https://github.com/tingcosmos/AdDKG/blob/main/sparql-codes). Users can perform their own queries by changing the parameters in the templates. \
-Use the SPARQL query endpoint of UniProt to retrieve its data without downloading the data stack. 
 
 ## More Information
 Please contact T. Liu (tingliu0909@gmail.com) and/or H. Qin (qinhongyun07@163.com) if you have any questions about the construction process, the datasets and query protocols.
