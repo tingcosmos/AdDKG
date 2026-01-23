@@ -26,7 +26,7 @@ Fill in AdDKG at the `Repository ID*`, then click `creat`.
 Import all databases from the menu `Import` -> `RDF page` -> `User data`. Click on `Upload RDF files` and select files to upload. \
 Click on `Import`, and fill the Target graphs with a URL as Named graphs. \
 If the database is too large to upload from the User data page, you can store the database in the local `graphdb-import` file and then import the database from the menu `Import` -> `RDF page` -> `Server files`. \
-The databases are available at [mini-AdDKG release page](https://github.com/tingcosmos/AdDKG/releases)..
+The databases are available at [mini-AdDKG release page](https://github.com/tingcosmos/AdDKG/releases).
 
 **4. Accessing and Reasoning Data in GraphDB** \
 The data in GraphDB can be accessed and reasoned by SPARQL query language. Start query from the menu `SPARQL`. \
