@@ -29,7 +29,7 @@ If the database is too large to upload from the User data page, you can store th
 The databases are available at [mini-AdDKG release page](https://github.com/tingcosmos/AdDKG/releases).
 
 **4. Accessing and Reasoning Data in GraphDB** \
-The data in GraphDB can be accessed and reasoned by SPARQL query language. Start query from the menu `SPARQL`. \
+The data in GraphDB can be accessed and reasoned by SPARQL query language. Start query from the menu `SPARQL`.
 
 ## More Information
 Please contact T. Liu (tingliu0909@gmail.com) and/or H. Qin (qinhongyun07@163.com) if you have any questions about the construction process, the datasets and query protocols.
