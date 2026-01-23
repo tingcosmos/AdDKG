@@ -1,5 +1,5 @@
 ## AdDKG
-This repository provides the process of the construction of the Alzheimer’s disease and Dementia Knowledge Graphs (AdDKG) wlong with all the datasets and query protocols used in the work. AdDKG is a literature-based biomedical knowledge graph designed for exploring the mechanism underlying astrocyte autophagy and pyroptosis in AD. This project is done by Gongli Hospital of Shanghai Pudong New Area and Shanghai Pudong New Area Mental Health Center, China. 
+This repository provides the process of the construction of the Alzheimer’s disease and Dementia Knowledge Graphs (AdDKG) along with all the datasets and query protocols used in the work. AdDKG is a literature-based biomedical knowledge graph designed for exploring the mechanism underlying astrocyte autophagy and pyroptosis in AD. This project is done by Gongli Hospital of Shanghai Pudong New Area and Shanghai Pudong New Area Mental Health Center, China. 
 
 ## Authors
 Ting Liu (lt02174@glhospital.com), Zhisheng Huang (huang.zhisheng.nl@gmail.com) and Hongyun Qin (qinhongyun07@163.com)
